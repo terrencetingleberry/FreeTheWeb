@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cryptabey.github.io/FreeTheWeb/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 contentDir = 'content'
