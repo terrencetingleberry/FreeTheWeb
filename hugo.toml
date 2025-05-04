@@ -1,6 +1,6 @@
 baseURL = 'https://cryptabey.github.io/FreeTheWeb/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Free The Web'
 contentDir = 'content'
 enableEmoji = true
 

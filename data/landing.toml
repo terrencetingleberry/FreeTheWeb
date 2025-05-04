@@ -3,7 +3,7 @@ enable = true
 weight = 10
 template = "hero"
 title = "Free The Web"
-subtitle = "Silly text ere"
+subtitle = "The wiki for all things digital freedom!"
 #info = "**Open Source** MIT Licensed."
 
 [hero.backgroundImage]
